@@ -5,9 +5,9 @@
 > "我活在世上，无非想要明白些道理，遇见些有趣的事。"
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将王小波的自由精神与黑色幽默蒸馏为 Claude Code 可用的写作 skill，让 AI 以理性而有趣的笔触拆解荒诞现实。**
+**将王小波的自由精神与黑色幽默蒸馏为 Claude Code 等 Agent Skills 客户端可用的写作 skill，让 AI 以理性而有趣的笔触拆解荒诞现实。**
 
 </div>
 
